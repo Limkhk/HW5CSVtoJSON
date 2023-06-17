@@ -2,6 +2,7 @@ out/
 .idea/
 *.csv
 *.json
+*.xml
 
 #
 target/
